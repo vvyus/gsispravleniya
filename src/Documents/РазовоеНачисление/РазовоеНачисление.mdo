@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ffbd3df8-4279-4c9e-9db7-0525eb936056" extendedConfigurationObject="17e66610-5cae-46d1-8718-a416c9daf9d0">
+  <producedTypes>
+    <objectType typeId="6fb8b6ae-c284-4117-b3b0-13a9cc4d06fa" valueTypeId="ec920c45-ffc3-42a8-ab18-3b971e43dbb2"/>
+    <refType typeId="35d758b6-530e-497e-be77-6ae0830c2158" valueTypeId="65aa00e3-d1b8-4141-a730-40c3bce880dc"/>
+    <selectionType typeId="4e2a79ae-bf83-41f6-8f24-f84fbe80c10c" valueTypeId="6a2e082c-4b5d-41d9-8d0c-d10269f47cff"/>
+    <listType typeId="b9aa6fe7-cad7-4dcd-9f4a-ec489a52610d" valueTypeId="80a66781-3067-424e-86d4-50c2d2e84edc"/>
+    <managerType typeId="0123ef27-115a-416f-b3ea-8b7c610ba750" valueTypeId="b0a2fbfb-3127-4a38-8f0c-2977e7d52e16"/>
+  </producedTypes>
+  <name>РазовоеНачисление</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <forms uuid="94508fda-8da9-42a3-b181-ad448173dded" extendedConfigurationObject="1e9d80b8-af68-47fe-88c1-782bc8a2becd">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

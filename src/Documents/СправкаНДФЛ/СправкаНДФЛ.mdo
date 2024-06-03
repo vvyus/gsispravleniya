@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="4d161b27-0876-49e5-a2e5-35c4cc82e9b5" extendedConfigurationObject="62701331-1499-4655-8afb-91023167fbf3">
+  <producedTypes>
+    <objectType typeId="59e4df6f-875b-4291-9d1a-11639936c3e4" valueTypeId="dd9f5b18-21f0-4c2d-bab2-4c9ea75d85b6"/>
+    <refType typeId="695f9493-7d3e-41ee-bc14-9f204fb3d518" valueTypeId="cc00443b-8e3f-411a-b36b-e454d8672a2f"/>
+    <selectionType typeId="bf536e3e-48af-484c-a5a3-3eba8722bfff" valueTypeId="e637d3bb-60af-4d60-a532-a4aaaa47e2e6"/>
+    <listType typeId="0e727bca-c979-4025-a1df-0f8b20719536" valueTypeId="29230d35-1ea1-41a8-b381-37c8776d28a9"/>
+    <managerType typeId="3ee880a6-2a6b-4644-a337-c895afdfa8df" valueTypeId="3859145a-7a7b-45ce-9fbe-fdc661d93773"/>
+  </producedTypes>
+  <name>СправкаНДФЛ</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Document>

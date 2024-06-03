@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ea2fa62e-7816-4ed6-80a5-b4bd95dee025" extendedConfigurationObject="6f39aaa1-0881-422d-a33b-a57a6bb9a41f">
+  <producedTypes>
+    <objectType typeId="23cc649b-8daf-468a-965b-f542fdc0f06e" valueTypeId="28c3d3a0-891d-4f89-99ca-8ae4249a385c"/>
+    <managerType typeId="f43c94a5-6e37-4951-b44d-cf0f9e1b2551" valueTypeId="226e2e6c-8751-4bb4-affb-3e0cf7a2ee8b"/>
+  </producedTypes>
+  <name>ПечатьКадровыхПриказовРасширенная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DataProcessorExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <managerModule>Extended</managerModule>
+  </extension>
+</mdclass:DataProcessor>

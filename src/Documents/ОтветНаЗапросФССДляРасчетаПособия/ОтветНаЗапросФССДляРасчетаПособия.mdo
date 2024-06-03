@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="8147bd93-c20c-4895-a02e-feb19feeb009" extendedConfigurationObject="89634266-3eab-42ef-a143-2c8d73ec6a3c">
+  <producedTypes>
+    <objectType typeId="7da5c62f-f769-4258-af7e-27906fa3eaf9" valueTypeId="dceaeb9f-5f4f-4b9c-a933-c173df54b8d7"/>
+    <refType typeId="627558c5-b272-4cbf-885c-4dcdc6cbc347" valueTypeId="dfff0557-810e-4a77-8475-587694da3ae6"/>
+    <selectionType typeId="dcf7a231-5c46-4200-a1ad-02b0e6e402f1" valueTypeId="f0809c95-0be2-4a66-ab48-6d6eb160522b"/>
+    <listType typeId="850a5b39-e2ea-4d24-9f2f-65f33f3233b8" valueTypeId="d4edda3c-0d68-4220-a0f8-1642ded02a55"/>
+    <managerType typeId="d6eb331a-cbfd-492c-942f-6181d4ec9d7f" valueTypeId="d19656de-e9f7-419f-94aa-5e004bb10bc3"/>
+  </producedTypes>
+  <name>ОтветНаЗапросФССДляРасчетаПособия</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+  <attributes uuid="c634e593-6c30-4c9b-ae09-b8994b33af83" extendedConfigurationObject="31a52339-0898-42ad-ab9f-e35ebe829755">
+    <name>ПервичныйДокумент</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <typeExtension>
+        <types>
+          <state>Checked</state>
+          <type>DefinedType.ДокументыОснованияЗаявленияСотрудникаНаВыплатуПособия</type>
+        </types>
+      </typeExtension>
+    </extension>
+    <type/>
+  </attributes>
+</mdclass:Document>
