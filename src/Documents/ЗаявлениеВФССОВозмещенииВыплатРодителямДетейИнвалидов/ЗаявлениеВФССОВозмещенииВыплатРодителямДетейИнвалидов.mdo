@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="3aba0909-fa8c-4fc8-8c94-28aa2bd0fed3" extendedConfigurationObject="a69f845f-d63d-4dd5-8fba-e5af17c4c601">
+  <producedTypes>
+    <objectType typeId="56af5930-6b3f-4323-a48a-3db53556155b" valueTypeId="7b0bea50-12d9-4ebd-b93a-32aaee81c507"/>
+    <refType typeId="9b2c8bc3-1eeb-40a9-b988-c1af8786f999" valueTypeId="89777b3b-0875-4731-a31a-3aea5a264ec0"/>
+    <selectionType typeId="51fd41be-22bb-49d9-92f7-852fb4350d91" valueTypeId="f1bc684e-e5d8-4b66-a2d6-915ee4ceb104"/>
+    <listType typeId="6015db18-e1d5-4433-882a-0725eeea3520" valueTypeId="8fcc2848-b6d6-4cc9-a295-d5d529f7fb6a"/>
+    <managerType typeId="ade53efc-530c-4748-b65a-4ce349ae7038" valueTypeId="a61e435b-41a9-4f64-835d-4769d58553f0"/>
+  </producedTypes>
+  <name>ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <managerModule>Extended</managerModule>
+  </extension>
+</mdclass:Document>

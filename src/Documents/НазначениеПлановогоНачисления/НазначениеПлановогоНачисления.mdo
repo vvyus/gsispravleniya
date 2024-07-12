@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="3f6a2547-c09e-4295-8ba3-e89bf0ec31ad" extendedConfigurationObject="c7525081-b919-46a4-b8dd-517608966071">
+  <producedTypes>
+    <objectType typeId="9545063f-42b1-40c1-a2b4-6aff00c3d304" valueTypeId="eab18ec6-fbb7-4055-88ef-653664d669ee"/>
+    <refType typeId="2b0c3eb5-459d-4671-a1e7-9e3dc309fe03" valueTypeId="33e1b4b6-ec8a-483c-a34a-eb06fbdbb012"/>
+    <selectionType typeId="28db830b-0e9d-4045-89f2-b9abd042332b" valueTypeId="269c540a-9d0d-480d-bbfa-70915e756dc5"/>
+    <listType typeId="9c8eb28d-6f2a-4178-9d69-b91524f5af7a" valueTypeId="1e17435e-7608-49ce-972d-d70ceda3780d"/>
+    <managerType typeId="139c686f-57d9-428a-9805-5c50b0f27c0a" valueTypeId="76e777ad-6ba6-4ed3-939d-136e8918d817"/>
+  </producedTypes>
+  <name>НазначениеПлановогоНачисления</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <forms uuid="960a9c02-77bb-4c13-bd87-c5709aff88ca" extendedConfigurationObject="ba76d971-741c-4abc-98d9-c7c33db845b3">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

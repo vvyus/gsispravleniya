@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="0bc0ee91-c1e9-42ad-b803-41090a694faa" extendedConfigurationObject="66c0d9fe-2d51-42cc-8229-361cd7a95d68">
+  <producedTypes>
+    <objectType typeId="b37d5ee0-8385-42e2-9ee1-177bd5725db8" valueTypeId="15ce3eac-632f-4786-8e1e-5fbea1022544"/>
+    <refType typeId="6b8769c8-9935-4039-a89e-ff8db16dde72" valueTypeId="406b8934-ec5c-44fc-a766-9b0b6eb26f44"/>
+    <selectionType typeId="f4b66c29-2297-43e0-87d4-6fdb24deb537" valueTypeId="11f5c8ff-4ad1-43ad-ac3a-3551e827f0fe"/>
+    <listType typeId="406db199-7e3f-4c94-878d-1443411de408" valueTypeId="061d86ad-f4d7-4d57-af86-f784806973c8"/>
+    <managerType typeId="80d7a07b-ed4a-499a-8c68-539943354061" valueTypeId="ff2dc27b-8f90-4ebc-bf6e-f1a3da6107df"/>
+  </producedTypes>
+  <name>ОплатаДнейУходаЗаДетьмиИнвалидами</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <forms uuid="e64adca8-69ff-4855-98e4-70b2df2c4ec8" extendedConfigurationObject="87a42dc3-0ccf-4662-ab58-f06f9cfda8d4">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

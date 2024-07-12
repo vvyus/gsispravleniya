@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="39f98433-b132-43a5-b0c2-0f583dada3b4" extendedConfigurationObject="f93494af-5f11-463d-a689-ecf377d2ec5f">
+  <producedTypes>
+    <objectType typeId="9f402222-202d-4ec5-ab9e-7acf6b434f6e" valueTypeId="f59a2a68-14dc-4dd0-ade2-8edc22870156"/>
+    <refType typeId="3a89ff6c-38a2-46e5-8618-2ad7906f40c1" valueTypeId="d4b1dcd0-116d-424a-bb59-b90ef80850ad"/>
+    <selectionType typeId="de365467-a151-4115-bbcb-be5e8739fdea" valueTypeId="b08f2ee8-7ff0-411f-8a5a-6d2815a50d0d"/>
+    <listType typeId="368d3ccb-2095-4ea4-8b46-3b55fd0656cc" valueTypeId="9366e3c1-2fe3-4dd0-a3a4-320346240617"/>
+    <managerType typeId="8bfeab39-a6a3-43ab-b47c-93edb1d3450d" valueTypeId="553b191c-f492-46da-bca4-6607e79a9856"/>
+  </producedTypes>
+  <name>ПереносДанных</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+</mdclass:Document>
