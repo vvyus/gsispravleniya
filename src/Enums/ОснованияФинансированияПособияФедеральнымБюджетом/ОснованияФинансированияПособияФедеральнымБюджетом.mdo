@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="4d6a166c-c8df-46c7-baf1-cc599509e8e7" extendedConfigurationObject="1fa5352d-51f3-47e9-8769-0776fa7caf40">
+  <producedTypes>
+    <refType typeId="97ac6ba2-9140-44fe-9e1a-168f2d092e3c" valueTypeId="2344f388-07ef-4e81-a05a-2d405befec3e"/>
+    <listType typeId="34fa8537-fccd-4ea6-94c8-d46b275fbba1" valueTypeId="b7f10668-ec3c-4992-9bc6-8317926ba741"/>
+    <managerType typeId="1be2c271-2973-4269-804e-c079339a7593" valueTypeId="05db25a4-af50-4bc3-b9c6-5bca1467cec9"/>
+  </producedTypes>
+  <name>ОснованияФинансированияПособияФедеральнымБюджетом</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <enumValues uuid="ee343cb7-0bf7-44a0-84b7-79b75d21c916" extendedConfigurationObject="dcf25833-de7d-47e3-99c9-9d232da5ddac">
+    <name>Чернобыль</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="cb346d3c-1e9f-4307-965e-847242636838" extendedConfigurationObject="63d317b6-aa15-4564-a2dd-774794c84ac1">
+    <name>Семипалатинск</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="822e0d3f-a8b2-4c85-b724-8d8b9c273e89" extendedConfigurationObject="be0d5095-20ea-40b1-aca1-e3286682cc13">
+    <name>Маяк</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="5910d328-1b8e-456f-ab0b-e015dafb3dcc" extendedConfigurationObject="0259793c-5222-461d-a0e3-581445bb6cb7">
+    <name>ПодразделенияОсобогоРиска</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+</mdclass:Enum>
