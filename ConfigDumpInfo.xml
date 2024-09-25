@@ -61,7 +61,7 @@
 		<Metadata name="Document.СправкаНДФЛ" id="4d161b27-0876-49e5-a2e5-35c4cc82e9b5" configVersion="18b24e5575e72b96ea8a1e4642ea76d7e364e39e"/>
 		<Metadata name="Document.Увольнение" id="848464a5-9ff2-435a-99c7-3de72cfecff2" configVersion="b56008e6eaa2e5ca2c720d7720fc06b804c4ef8a"/>
 		<Metadata name="Document.Увольнение.Form.ФормаДокумента" id="4eb4a2a2-c57e-47e6-9de3-734c8ac1f04d" configVersion="81f42b34af21f76eaa29cc5f7704e88c84e26005"/>
-		<Metadata name="Document.Увольнение.Form.ФормаДокумента.Form" id="4eb4a2a2-c57e-47e6-9de3-734c8ac1f04d.0" configVersion="ffc9902129611bf85e271c9cf577012c612a5155"/>
+		<Metadata name="Document.Увольнение.Form.ФормаДокумента.Form" id="4eb4a2a2-c57e-47e6-9de3-734c8ac1f04d.0" configVersion="504b65c4543b25b0cc2657575a855f04d89d5bd3"/>
 		<Metadata name="Enum.ВариантыИзмененияСоставаСтрахователейСФР" id="3471e753-13c8-425e-bd22-9a618a78e0ff" configVersion="eee875bdde6ac0c3cf4afd02634d57c6de0cb254">
 			<Metadata name="Enum.ВариантыИзмененияСоставаСтрахователейСФР.EnumValue.ИзменилсяПолностью" id="2cb5bd89-a139-4e56-8470-d26314d421fd"/>
 			<Metadata name="Enum.ВариантыИзмененияСоставаСтрахователейСФР.EnumValue.ИзменилсяЧастично" id="a27a27cd-6881-4e45-9d48-ff3065b1763f"/>
