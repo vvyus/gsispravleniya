@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<AccumulationRegister uuid="e2c44d43-ffb1-4a89-8776-1d81c6d6f02e">
+		<InternalInfo>
+			<xr:GeneratedType name="AccumulationRegisterRecord.НачисленияУдержанияПоСотрудникам" category="Record">
+				<xr:TypeId>294b2ae3-1982-4a5e-9940-d2e47ececd66</xr:TypeId>
+				<xr:ValueId>843a732d-3f17-4de3-b2be-e87e7e18e0d0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterManager.НачисленияУдержанияПоСотрудникам" category="Manager">
+				<xr:TypeId>55b2ab43-7741-4b73-aee5-4d74ed7c69ef</xr:TypeId>
+				<xr:ValueId>2ffa0ca7-2c8c-4b68-ae54-0222c4473146</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterSelection.НачисленияУдержанияПоСотрудникам" category="Selection">
+				<xr:TypeId>3ea70e16-6a12-4e7d-9024-149e1c249286</xr:TypeId>
+				<xr:ValueId>8d947e8b-8c95-4d18-a2db-e05c19858e51</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterList.НачисленияУдержанияПоСотрудникам" category="List">
+				<xr:TypeId>4d9fcd33-a703-4bbf-a35b-01112b35a98e</xr:TypeId>
+				<xr:ValueId>0b08dc00-a579-4997-932f-2998f275e572</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordSet.НачисленияУдержанияПоСотрудникам" category="RecordSet">
+				<xr:TypeId>97e7dd3b-c448-4a83-a81e-4dc1aba92d9e</xr:TypeId>
+				<xr:ValueId>317b8526-023b-4282-936b-95e055b1f9f0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordKey.НачисленияУдержанияПоСотрудникам" category="RecordKey">
+				<xr:TypeId>9a987908-8a92-4f5d-939c-6011c28dc448</xr:TypeId>
+				<xr:ValueId>a6b3795b-4860-478a-89c2-6ffe6ed45f93</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НачисленияУдержанияПоСотрудникам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3255479a-7a6e-4c99-98b5-70a9215f9a24</ExtendedConfigurationObject>
+			<RegisterType>Turnovers</RegisterType>
+		</Properties>
+		<ChildObjects/>
+	</AccumulationRegister>
+</MetaDataObject>

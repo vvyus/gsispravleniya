@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="ffbd3df8-4279-4c9e-9db7-0525eb936056">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РазовоеНачисление" category="Object">
+				<xr:TypeId>6fb8b6ae-c284-4117-b3b0-13a9cc4d06fa</xr:TypeId>
+				<xr:ValueId>ec920c45-ffc3-42a8-ab18-3b971e43dbb2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РазовоеНачисление" category="Ref">
+				<xr:TypeId>35d758b6-530e-497e-be77-6ae0830c2158</xr:TypeId>
+				<xr:ValueId>65aa00e3-d1b8-4141-a730-40c3bce880dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РазовоеНачисление" category="Selection">
+				<xr:TypeId>4e2a79ae-bf83-41f6-8f24-f84fbe80c10c</xr:TypeId>
+				<xr:ValueId>6a2e082c-4b5d-41d9-8d0c-d10269f47cff</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РазовоеНачисление" category="List">
+				<xr:TypeId>b9aa6fe7-cad7-4dcd-9f4a-ec489a52610d</xr:TypeId>
+				<xr:ValueId>80a66781-3067-424e-86d4-50c2d2e84edc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РазовоеНачисление" category="Manager">
+				<xr:TypeId>0123ef27-115a-416f-b3ea-8b7c610ba750</xr:TypeId>
+				<xr:ValueId>b0a2fbfb-3127-4a38-8f0c-2977e7d52e16</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РазовоеНачисление</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>17e66610-5cae-46d1-8718-a416c9daf9d0</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="1e91173c-8768-47b4-b0ee-3e860d26bbfc">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РеестрДСВ_3" category="Object">
+				<xr:TypeId>249eac0b-0a8a-4c48-93bf-b7017a889396</xr:TypeId>
+				<xr:ValueId>6d4a9979-e7c9-4fe9-929f-faac2827b5f4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РеестрДСВ_3" category="Ref">
+				<xr:TypeId>e34db27a-9050-41b6-b572-490c7f6b3182</xr:TypeId>
+				<xr:ValueId>8caac5f4-2d73-4879-82b6-0fee4a8cbe62</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РеестрДСВ_3" category="Selection">
+				<xr:TypeId>7a765ed0-7db1-484d-b184-6644da865a63</xr:TypeId>
+				<xr:ValueId>ef62fc19-5b0e-4381-b3f1-a543b59ef425</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РеестрДСВ_3" category="List">
+				<xr:TypeId>b409910f-ef09-43e7-9920-09b8d1354239</xr:TypeId>
+				<xr:ValueId>2d79109c-6e21-4e76-bd97-dad790985ea9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РеестрДСВ_3" category="Manager">
+				<xr:TypeId>570841b2-62ce-4496-859d-4c0f323d880e</xr:TypeId>
+				<xr:ValueId>a21abb63-7cd8-4eac-b32b-80d3aa9b60f3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеестрДСВ_3</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ecd6504a-770b-4e00-a172-f9398cf6991a</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

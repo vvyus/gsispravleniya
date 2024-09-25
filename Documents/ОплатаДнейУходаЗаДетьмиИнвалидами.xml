@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="0bc0ee91-c1e9-42ad-b803-41090a694faa">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОплатаДнейУходаЗаДетьмиИнвалидами" category="Object">
+				<xr:TypeId>b37d5ee0-8385-42e2-9ee1-177bd5725db8</xr:TypeId>
+				<xr:ValueId>15ce3eac-632f-4786-8e1e-5fbea1022544</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОплатаДнейУходаЗаДетьмиИнвалидами" category="Ref">
+				<xr:TypeId>6b8769c8-9935-4039-a89e-ff8db16dde72</xr:TypeId>
+				<xr:ValueId>406b8934-ec5c-44fc-a766-9b0b6eb26f44</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОплатаДнейУходаЗаДетьмиИнвалидами" category="Selection">
+				<xr:TypeId>f4b66c29-2297-43e0-87d4-6fdb24deb537</xr:TypeId>
+				<xr:ValueId>11f5c8ff-4ad1-43ad-ac3a-3551e827f0fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОплатаДнейУходаЗаДетьмиИнвалидами" category="List">
+				<xr:TypeId>406db199-7e3f-4c94-878d-1443411de408</xr:TypeId>
+				<xr:ValueId>061d86ad-f4d7-4d57-af86-f784806973c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОплатаДнейУходаЗаДетьмиИнвалидами" category="Manager">
+				<xr:TypeId>80d7a07b-ed4a-499a-8c68-539943354061</xr:TypeId>
+				<xr:ValueId>ff2dc27b-8f90-4ebc-bf6e-f1a3da6107df</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОплатаДнейУходаЗаДетьмиИнвалидами</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>66c0d9fe-2d51-42cc-8229-361cd7a95d68</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

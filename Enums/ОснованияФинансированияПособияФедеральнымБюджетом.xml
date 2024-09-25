@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Enum uuid="4d6a166c-c8df-46c7-baf1-cc599509e8e7">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ОснованияФинансированияПособияФедеральнымБюджетом" category="Ref">
+				<xr:TypeId>97ac6ba2-9140-44fe-9e1a-168f2d092e3c</xr:TypeId>
+				<xr:ValueId>2344f388-07ef-4e81-a05a-2d405befec3e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ОснованияФинансированияПособияФедеральнымБюджетом" category="Manager">
+				<xr:TypeId>1be2c271-2973-4269-804e-c079339a7593</xr:TypeId>
+				<xr:ValueId>05db25a4-af50-4bc3-b9c6-5bca1467cec9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ОснованияФинансированияПособияФедеральнымБюджетом" category="List">
+				<xr:TypeId>34fa8537-fccd-4ea6-94c8-d46b275fbba1</xr:TypeId>
+				<xr:ValueId>b7f10668-ec3c-4992-9bc6-8317926ba741</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОснованияФинансированияПособияФедеральнымБюджетом</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1fa5352d-51f3-47e9-8769-0776fa7caf40</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="ee343cb7-0bf7-44a0-84b7-79b75d21c916">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Чернобыль</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>dcf25833-de7d-47e3-99c9-9d232da5ddac</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cb346d3c-1e9f-4307-965e-847242636838">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Семипалатинск</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>63d317b6-aa15-4564-a2dd-774794c84ac1</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="822e0d3f-a8b2-4c85-b724-8d8b9c273e89">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Маяк</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>be0d5095-20ea-40b1-aca1-e3286682cc13</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="5910d328-1b8e-456f-ab0b-e015dafb3dcc">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ПодразделенияОсобогоРиска</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>0259793c-5222-461d-a0e3-581445bb6cb7</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

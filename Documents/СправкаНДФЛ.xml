@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="4d161b27-0876-49e5-a2e5-35c4cc82e9b5">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СправкаНДФЛ" category="Object">
+				<xr:TypeId>59e4df6f-875b-4291-9d1a-11639936c3e4</xr:TypeId>
+				<xr:ValueId>dd9f5b18-21f0-4c2d-bab2-4c9ea75d85b6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СправкаНДФЛ" category="Ref">
+				<xr:TypeId>695f9493-7d3e-41ee-bc14-9f204fb3d518</xr:TypeId>
+				<xr:ValueId>cc00443b-8e3f-411a-b36b-e454d8672a2f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СправкаНДФЛ" category="Selection">
+				<xr:TypeId>bf536e3e-48af-484c-a5a3-3eba8722bfff</xr:TypeId>
+				<xr:ValueId>e637d3bb-60af-4d60-a532-a4aaaa47e2e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СправкаНДФЛ" category="List">
+				<xr:TypeId>0e727bca-c979-4025-a1df-0f8b20719536</xr:TypeId>
+				<xr:ValueId>29230d35-1ea1-41a8-b381-37c8776d28a9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СправкаНДФЛ" category="Manager">
+				<xr:TypeId>3ee880a6-2a6b-4644-a337-c895afdfa8df</xr:TypeId>
+				<xr:ValueId>3859145a-7a7b-45ce-9fbe-fdc661d93773</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СправкаНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>62701331-1499-4655-8afb-91023167fbf3</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

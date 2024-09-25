@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="36de8918-79c5-4e7b-a22c-a4f842e9e90e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИсходящаяСправкаОЗаработкеДляРасчетаПособий" category="Object">
+				<xr:TypeId>0ff44f26-8f73-4f46-b3b7-b89ece7c10a3</xr:TypeId>
+				<xr:ValueId>f9c6416c-3546-4ec7-ba5b-93673e9ed31f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИсходящаяСправкаОЗаработкеДляРасчетаПособий" category="Ref">
+				<xr:TypeId>5580b91c-2fcd-470e-b114-ce3b603e4795</xr:TypeId>
+				<xr:ValueId>433772d4-3a62-44d5-b725-0b3f882342d7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИсходящаяСправкаОЗаработкеДляРасчетаПособий" category="Selection">
+				<xr:TypeId>3a4af7dc-586d-46b3-a62b-bf018dc68310</xr:TypeId>
+				<xr:ValueId>2e3e199c-e763-4589-b712-89a057ae6d54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИсходящаяСправкаОЗаработкеДляРасчетаПособий" category="List">
+				<xr:TypeId>19472ed0-4691-41ac-aa75-70c3b1eaf201</xr:TypeId>
+				<xr:ValueId>f6710280-cc2a-4baf-ab21-6a626f3c3c50</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИсходящаяСправкаОЗаработкеДляРасчетаПособий" category="Manager">
+				<xr:TypeId>7c156bd1-19be-43af-8d51-fcd04072b8cb</xr:TypeId>
+				<xr:ValueId>9a4008eb-1d75-4caa-bbd7-9a90890c5312</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИсходящаяСправкаОЗаработкеДляРасчетаПособий</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>525cd7a4-ff26-401e-b231-c9f1287b1a50</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

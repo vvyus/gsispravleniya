@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="3f6a2547-c09e-4295-8ba3-e89bf0ec31ad">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.НазначениеПлановогоНачисления" category="Object">
+				<xr:TypeId>9545063f-42b1-40c1-a2b4-6aff00c3d304</xr:TypeId>
+				<xr:ValueId>eab18ec6-fbb7-4055-88ef-653664d669ee</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.НазначениеПлановогоНачисления" category="Ref">
+				<xr:TypeId>2b0c3eb5-459d-4671-a1e7-9e3dc309fe03</xr:TypeId>
+				<xr:ValueId>33e1b4b6-ec8a-483c-a34a-eb06fbdbb012</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.НазначениеПлановогоНачисления" category="Selection">
+				<xr:TypeId>28db830b-0e9d-4045-89f2-b9abd042332b</xr:TypeId>
+				<xr:ValueId>269c540a-9d0d-480d-bbfa-70915e756dc5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.НазначениеПлановогоНачисления" category="List">
+				<xr:TypeId>9c8eb28d-6f2a-4178-9d69-b91524f5af7a</xr:TypeId>
+				<xr:ValueId>1e17435e-7608-49ce-972d-d70ceda3780d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.НазначениеПлановогоНачисления" category="Manager">
+				<xr:TypeId>139c686f-57d9-428a-9805-5c50b0f27c0a</xr:TypeId>
+				<xr:ValueId>76e777ad-6ba6-4ed3-939d-136e8918d817</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НазначениеПлановогоНачисления</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c7525081-b919-46a4-b8dd-517608966071</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

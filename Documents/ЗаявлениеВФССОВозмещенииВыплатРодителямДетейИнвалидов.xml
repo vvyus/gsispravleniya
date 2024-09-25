@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<Document uuid="3aba0909-fa8c-4fc8-8c94-28aa2bd0fed3">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов" category="Object">
+				<xr:TypeId>56af5930-6b3f-4323-a48a-3db53556155b</xr:TypeId>
+				<xr:ValueId>7b0bea50-12d9-4ebd-b93a-32aaee81c507</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов" category="Ref">
+				<xr:TypeId>9b2c8bc3-1eeb-40a9-b988-c1af8786f999</xr:TypeId>
+				<xr:ValueId>89777b3b-0875-4731-a31a-3aea5a264ec0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов" category="Selection">
+				<xr:TypeId>51fd41be-22bb-49d9-92f7-852fb4350d91</xr:TypeId>
+				<xr:ValueId>f1bc684e-e5d8-4b66-a2d6-915ee4ceb104</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов" category="List">
+				<xr:TypeId>6015db18-e1d5-4433-882a-0725eeea3520</xr:TypeId>
+				<xr:ValueId>8fcc2848-b6d6-4cc9-a295-d5d529f7fb6a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов" category="Manager">
+				<xr:TypeId>ade53efc-530c-4748-b65a-4ce349ae7038</xr:TypeId>
+				<xr:ValueId>a61e435b-41a9-4f64-835d-4769d58553f0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаявлениеВФССОВозмещенииВыплатРодителямДетейИнвалидов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a69f845f-d63d-4dd5-8fba-e5af17c4c601</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
