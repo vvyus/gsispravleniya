@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<InformationRegister uuid="54305122-08ad-45a6-92ae-0a742522cf25">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.ПользовательскиеМакетыПечати" category="Record">
+				<xr:TypeId>1bbd75bc-7404-4219-b934-8005c1143636</xr:TypeId>
+				<xr:ValueId>738bee57-660b-4c6d-8616-6cfde02ad910</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.ПользовательскиеМакетыПечати" category="Manager">
+				<xr:TypeId>f3b7a57c-d03e-4e3c-b7c2-3600c2715057</xr:TypeId>
+				<xr:ValueId>5223508f-0f9c-4e5a-80f3-890ed48be75a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.ПользовательскиеМакетыПечати" category="Selection">
+				<xr:TypeId>06866d15-24cd-40c9-abf1-abd39fc0ab6e</xr:TypeId>
+				<xr:ValueId>42fea81f-7436-44a6-98a9-fb64fa04854c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.ПользовательскиеМакетыПечати" category="List">
+				<xr:TypeId>cd5699c2-9ec8-4eb9-8f1d-4f43fd808304</xr:TypeId>
+				<xr:ValueId>dbaac70b-9c5c-4e2d-9448-4a556d404f02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ПользовательскиеМакетыПечати" category="RecordSet">
+				<xr:TypeId>95e294fe-0c07-4ad2-9b70-b3e06b0d15a9</xr:TypeId>
+				<xr:ValueId>6679c40d-09ea-4257-bb29-33dc9af3b45b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ПользовательскиеМакетыПечати" category="RecordKey">
+				<xr:TypeId>42a6c5af-0f3c-4cf7-a3e2-92de51195ed9</xr:TypeId>
+				<xr:ValueId>6c842130-d726-4b02-a5b6-5eb161bc2946</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ПользовательскиеМакетыПечати" category="RecordManager">
+				<xr:TypeId>cc5f6aeb-e7ba-4f24-b365-e3f33b5cb500</xr:TypeId>
+				<xr:ValueId>264349f6-1a19-4bb3-8fbb-76d6ea790efb</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПользовательскиеМакетыПечати</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>876e31ff-ab7b-4ea4-b491-161963727dd1</ExtendedConfigurationObject>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects/>
+	</InformationRegister>
+</MetaDataObject>

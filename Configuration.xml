@@ -87,6 +87,7 @@
 			<CommandGroup>Органайзер</CommandGroup>
 			<CommonForm>ПерсональныеНастройки</CommonForm>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>РодственникиФизическихЛиц</Catalog>
 			<Document>ПереносДанных</Document>
 			<Document>СправкаНДФЛ</Document>
 			<Document>РеестрДСВ_3</Document>
@@ -104,6 +105,7 @@
 			<Enum>КомпенсацияУдержаниеОтпускаПриУвольнении</Enum>
 			<DataProcessor>ПечатьКадровыхПриказовРасширенная</DataProcessor>
 			<DataProcessor>ТекущиеДела</DataProcessor>
+			<InformationRegister>ПользовательскиеМакетыПечати</InformationRegister>
 			<AccumulationRegister>НачисленияУдержанияПоСотрудникам</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ДополнительныеРеквизитыИСведения</ChartOfCharacteristicTypes>
 		</ChildObjects>
