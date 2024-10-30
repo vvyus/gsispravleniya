@@ -50,7 +50,7 @@
 		<Metadata name="Document.ОтветНаЗапросФССДляРасчетаПособия.Form.ФормаДокумента" id="0b24a69c-188a-457f-9211-03543fdace9f" configVersion="6fd98d98e47e67988724d387336b2295443bd1f1"/>
 		<Metadata name="Document.ОтветНаЗапросФССДляРасчетаПособия.Form.ФормаДокумента.Form" id="0b24a69c-188a-457f-9211-03543fdace9f.0" configVersion="51682ae2f490a070c186492223562305989a4c35"/>
 		<Metadata name="Document.ОтветНаЗапросФССДляРасчетаПособия.ManagerModule" id="8147bd93-c20c-4895-a02e-feb19feeb009.2" configVersion="cd3d1e03830132bac987af2aca589346eb160bb8"/>
-		<Metadata name="Document.ОтветНаЗапросФССДляРасчетаПособия.ObjectModule" id="8147bd93-c20c-4895-a02e-feb19feeb009.0" configVersion="6db0612dad651caa15b053ffb04ea128acaae8b4"/>
+		<Metadata name="Document.ОтветНаЗапросФССДляРасчетаПособия.ObjectModule" id="8147bd93-c20c-4895-a02e-feb19feeb009.0" configVersion="6a95520811a74aa0a1b2bd876840d8ddbaab2e82"/>
 		<Metadata name="Document.ПереносДанных" id="39f98433-b132-43a5-b0c2-0f583dada3b4" configVersion="b23f0ae423e7b9e9eb65ec1014d2f2ae389a769d"/>
 		<Metadata name="Document.РазовоеНачисление" id="ffbd3df8-4279-4c9e-9db7-0525eb936056" configVersion="a07a3f6b610bdf3bd1256d71a764a47425c2c5d2"/>
 		<Metadata name="Document.РазовоеНачисление.Form.ФормаДокумента" id="94508fda-8da9-42a3-b181-ad448173dded" configVersion="ee01b19a5795f9a910bf100112c0eea13ea970ba"/>
